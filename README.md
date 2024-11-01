@@ -3,8 +3,8 @@
 <p><em>Full Stack Web Developer and Cross-platform Application Development<img <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: alexCS](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-carbonell-soriano-a83aa1333/)](https://www.linkedin.com/in/alejandro-carbonell-soriano-a83aa1333/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/AlejandroCS713)
+[![Linkedin: AlejandroCS713](https://img.shields.io/badge/-AlejandroCS713-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-carbonell-soriano-a83aa1333/)](https://www.linkedin.com/in/alejandro-carbonell-soriano-a83aa1333/)
+[![GitHub AlejandroCS713](https://img.shields.io/github/followers/AlejandroCS713?label=follow&style=social)](https://github.com/AlejandroCS713)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
