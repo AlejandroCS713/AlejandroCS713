@@ -11,12 +11,25 @@
 
 ```javascript
 const thai = {
-  pronouns: "he" ,
+  pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, Java, PHP],
-  tools: [React, Node, Styled-Components, Jest, Docker, GIT, Android Studio, Spring],
-}
+  technologies: {
+        mobileApp: ["Android Studio"],
+        frontEnd: {
+            js, css, bootstrap
+        },
+        backEnd: {
+            js, java, php
+        },
+        frameworks:{
+            laravel, angular, react, spring
+        },
+        tools: ["GIT", "Docker🐳"],
+        databases: ["oracle", "MySql", "PostgreSQL"],
+    },
 ```
 
+  <H1>MORE INCOMING WAIT ME PLEASE</H1>
 
 ---
 
